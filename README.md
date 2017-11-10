@@ -17,17 +17,15 @@ We implement a <b>4 layers deep neural network</b> just using numpy. Notice imag
 <li>Record parameters in a pickle file</li>
 </ul>
 
-### cat_recognizer.py
-<ul>
-<li>Load trained model parameters from pickle file </li>
-<li>Run chosen image into the network providing prediction </li>
-</ul>
-
 ### dnn_app_utils.py
 <ul>
 <li>Contain supporting fuctions for cat_dnn_model.py and cat_recognizer.py</li>
 </ul>
 
-<br/>
-
+### cat_recognizer.py
+<ul>
+<li>Load trained model parameters from pickle file </li>
+<li>Run chosen image into the network providing prediction </li>
+<li>Example:</li>
+</ul>
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32639095-2610a414-c5fd-11e7-9a3d-836ba5cde141.PNG" width="500"></p>
